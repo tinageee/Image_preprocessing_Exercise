@@ -1,5 +1,5 @@
-# Understory_Programming_Exercise
-a short programming exercise
+# Programming_Exercise
+A short programming exercise for a startup company’s take-home challenge.
 
 # Image Patch Extraction Toolkit
 
